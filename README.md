@@ -1,34 +1,30 @@
-DocSphere
+# 🌐 DocSphere
 
 A modern and collaborative Google Docs clone built with Next.js 15, React 19 (RC), and Convex for real-time document editing.
 
 🚀 Developed by Sahasrayan🔗 Visit My Website
 
-✨ Features
+## ✨ Features
 
-📝 Real-time Collaborative Editing powered by Convex
+- 📝 **Real-time Collaborative Editing** powered by **Convex**
+- 🎨 **Beautiful UI** with **TailwindCSS**
+- 🔑 **Secure Authentication** via **Clerk**
+- 💬 **Live Collaboration** using **Liveblocks**
+- 🚀 **Effortless Deployment** on **Vercel**
+- 🌍 **Cloud-Based & Accessible Anywhere**
 
-🎨 Beautiful UI with TailwindCSS
-
-🔑 Secure Authentication via Clerk
-
-💬 Live Collaboration using Liveblocks
-
-🚀 Effortless Deployment on Vercel
-
-🌍 Cloud-Based & Accessible Anywhere
-
-📌 Prerequisites
-
+  
+## 📌 Prerequisites
 Ensure you have the following installed:
 
 Node.js (v18+ recommended)
 
 npm or bun package manager
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-1️⃣ Install Dependencies
+### 1️⃣ Install Dependencies
+
 
 Using npm:
 
@@ -38,7 +34,7 @@ Using bun:
 
 bun install
 
-2️⃣ Setup Environment Variables
+### 2️⃣ Setup Environment Variables
 
 Copy the example environment file:
 
@@ -46,7 +42,7 @@ cp .env.example .env.local
 
 Then, update .env.local with the required credentials.
 
-3️⃣ Start Development Servers
+### 3️⃣ Start Development Servers
 
 Run both commands in separate terminals or use concurrently:
 
